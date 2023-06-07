@@ -1,1 +1,1 @@
-# kickstart file for VMWare PhotonOS for unattended, automated installations. 
+# Automated Installation of VMWare PhotonOS with kickstart file.
